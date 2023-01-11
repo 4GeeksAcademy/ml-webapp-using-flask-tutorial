@@ -4,7 +4,7 @@
 
 - In this project we will create a machine learning web application. To do a beautiful one, you are free to choose the best model between all your previous projects, and apply your new **Flask** skills!  
 
->Don't forget to always be resourceful!
+> Don't forget to always be resourceful!
 
 ## 🌱  How to start this project
 
