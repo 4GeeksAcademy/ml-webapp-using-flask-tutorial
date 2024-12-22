@@ -9,5 +9,6 @@
 	"syntax": "python",
 	"duration" : 1,
     "projectType": "project",
+	"autoPlay": "false",
 	"description" : "Use Flask to create a machine learning web application."
 }
