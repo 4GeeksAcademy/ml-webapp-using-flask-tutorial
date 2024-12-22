@@ -4,10 +4,12 @@
 	"preview": "https://github.com/4GeeksAcademy/ml-webapp-using-flask-tutorial/blob/main/preview.png?raw=true",
 	"status": "published",
 	"translations": ["us"],
-	"technologies": ["data-science", "machine-learning", "python", "flask"],
+	"technologies": ["python", "flask", "render", "numpy", "pandas", "scikit-learn", "tensorflow", "keras", "data-science", "machine-learning"],
 	"difficulty": "beginner",
 	"syntax": "python",
-	"duration" : 1,
+	"duration" : 1, 
+	"template_url": "https://github.com/4GeeksAcademy/machine-learning-python-template",
     "projectType": "project",
+	"autoPlay": "false",
 	"description" : "Use Flask to create a machine learning web application."
 }
