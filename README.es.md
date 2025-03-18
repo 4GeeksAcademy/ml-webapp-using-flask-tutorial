@@ -7,12 +7,12 @@
 - Analizar los resultados y optimizar el modelo.
 - Integrarlo en Render usando una aplicación basada en Flask.
 
-## 🌱  Cómo iniciar este proyecto
+## 🌱 Cómo iniciar este proyecto
 
 Sigue las siguientes instrucciones:
 
-1. Crea un nuevo repositorio basado en el [proyecto de Machine Learing](https://github.com/4GeeksAcademy/machine-learning-python-template/generate) [haciendo clic aquí](https://github.com/4GeeksAcademy/machine-learning-python-template).
-2. Abre el repositorio creado recientemente en Codespace usando la [extensión del botón de Codespace](https://docs.github.com/en/codespaces/developing-in-codespaces/creating-a-codespace-for-a-repository#creating-a-codespace-for-a-repository).
+1. Crea un nuevo repositorio basado en el [proyecto de Machine Learning](https://github.com/4GeeksAcademy/machine-learning-python-template) o [haciendo clic aquí](https://github.com/4GeeksAcademy/machine-learning-python-template/generate).
+2. Abre el repositorio creado recientemente en Codespace usando la [extensión del botón de Codespace](https://docs.github.com/es/codespaces/developing-in-codespaces/creating-a-codespace-for-a-repository#creating-a-codespace-for-a-repository).
 3. Una vez que el VSCode del Codespace haya terminado de abrirse, comienza tu proyecto siguiendo las instrucciones a continuación.
 
 ## 🚛 Cómo entregar este proyecto
@@ -23,7 +23,7 @@ Una vez que hayas terminado de resolver el caso práctico, asegúrate de confirm
 
 ### Paso 1: Busca un conjunto de datos
 
-Investiga en las diferentes fuentes en línea sobre distintos datasets que podrías utilizar para entrenar un modelo. Puedes utilizar alguna API pública, el repositorio UCI para Machine Learning o el apartado de Kaggle de [conjuntos de datos](https://www.kaggle.com/datasets), entre otras muchas fuentes. Recuerda buscar un conjunto de datos simple ya que este no es el proyecto final del curso.
+Investiga en las diferentes fuentes en línea sobre distintos datasets que podrías utilizar para entrenar un modelo. Puedes utilizar alguna API pública, el repositorio UCI para Machine Learning o el apartado de Kaggle de [conjuntos de datos](https://www.kaggle.com/datasets), entre otras muchas fuentes. Recuerda buscar un conjunto de datos simple, ya que este no es el proyecto final del curso.
 
 ### Paso 2: Desarrolla un modelo
 

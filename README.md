@@ -7,17 +7,17 @@
 - Analyze the results and optimize the model.
 - Integrate it into Render using a Flask-based application.
 
-## 🌱  How to start this project
+## 🌱 How to start this project
 
 Follow the instructions below:
 
-1. Create a new repository based on [machine learning project](https://github.com/4GeeksAcademy/machine-learning-python-template/generate) by [clicking here](https://github.com/4GeeksAcademy/machine-learning-python-template).
+1. Create a new repository based on [machine learning project](https://github.com/4GeeksAcademy/machine-learning-python-template) by [clicking here](https://github.com/4GeeksAcademy/machine-learning-python-template/generate).
 2. Open the newly created repository in Codespace using the [Codespace button extension](https://docs.github.com/en/codespaces/developing-in-codespaces/creating-a-codespace-for-a-repository#creating-a-codespace-for-a-repository).
 3. Once the Codespace VSCode has finished opening, start your project by following the instructions below.
 
 ## 🚛 How to deliver this project
 
-Once you have finished solving the exercises, be sure to commit your changes, push to your repository and go to 4Geeks.com to upload the repository link.
+Once you have finished solving the exercises, be sure to commit your changes, push them to your repository, and go to 4Geeks.com to upload the repository link.
 
 ## 📝 Instructions
 
@@ -31,7 +31,7 @@ Once you have found your ideal data set, analyze it and train a model. Optimize 
 
 ### Step 3: Develop a web application using Flask
 
-With the knowledge acquired in this module, develop an interface to be able to use the model. Give it the style that suits you best and note the external resources you have used for the development.
+With the knowledge acquired in this module, develop an interface to be able to use the model. Give it the style that suits you best, and note the external resources you have used for the development.
 
 ### Step 4: Integrate the model and the application in Render
 
