@@ -6,7 +6,7 @@
 - Model the data using a Machine Learning, Deep Learning or NLP algorithm.
 - Analyze the results and optimize the model.
 - Integrate it into Render using a Flask-based application.
-
+  
 ## 🌱  How to start this project
 
 Follow the instructions below:

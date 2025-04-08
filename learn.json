@@ -1,14 +1,25 @@
 {
 	"slug" : "ml-webapp-using-flask-tutorial",
-	"title" : "ML web app using Flask tutorial",
+	"title" : {
+		"us": "ML web app using Flask tutorial",
+		"es": "Tutorial de una aplicación web de ML con Flask"
+	},
 	"preview": "https://github.com/4GeeksAcademy/ml-webapp-using-flask-tutorial/blob/main/preview.png?raw=true",
 	"status": "published",
 	"translations": ["us"],
-	"technologies": ["data-science", "machine-learning", "python", "flask"],
+	"technologies": ["python", "flask", "render", "numpy", "pandas", "scikit-learn", "tensorflow", "keras", "data-science", "machine-learning"],
 	"difficulty": "beginner",
 	"syntax": "python",
-	"duration" : 1,
-    	"projectType": "project",
-	"description" : "Use Flask to create a machine learning web application.",
-	"gitpod": true
+	"duration" : 1, 
+	"template_url": "https://github.com/4GeeksAcademy/machine-learning-python-template",
+    "projectType": "project",
+	"autoPlay": false,
+	"description" : {
+		"us":"Learn how to train and optimize a machine learning model, build a Flask web app to interact with it, and deploy the full application on Render. This hands-on project walks you through data exploration, model creation, app development, and cloud deployment step by step.",
+		"es":"Aprende a entrenar y optimizar un modelo de machine learning, construir una aplicación web con Flask para interactuar con él y desplegar toda la aplicación en Render. Este proyecto práctico te guía paso a paso en la exploración de datos, creación del modelo, desarrollo de la app y despliegue en la nube."
+    },
+	"gitpod": true,
+	"telemetry": {
+	    	"batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=449"
+	  }
 }
